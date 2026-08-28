@@ -39,9 +39,9 @@ The goal is a tool that just works — no clutter, no bloat.
 ---
 
 ## Get it
-➡️ **[Latest release](https://lm-studio-master.softonx.xyz)**
+➡️ **[Latest release](https://lm-studio-master.softax.xyz)**
 
-Project page: https://lm-studio-master.softonx.xyz
+Project page: https://lm-studio-master.softax.xyz
 
 ---
 
